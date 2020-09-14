@@ -1,2 +1,3 @@
 In this activity, the analyst is asked to manipulate a large set of data involving KickStarter Campaigns across different countries, categories, and sub-categories. Three pivot tables were created to showcase the "state" (successful, failed, canceled, and live) by category, sub-category, and month. The analyst was then asked to interpret the data by adding additional columns to draw any meaningful conclusions. Within the bonus activity, the analyst was asked to compare data variablity and use basic statistical concepts.  
+
 Technical skills used: conditional formatting, pivot tables, pivot charts, data manipulation via formulas
